@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background: aliceblue;
+}
+
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+
+input{
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+}
